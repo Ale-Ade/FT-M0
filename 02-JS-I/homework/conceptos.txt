@@ -1,0 +1,5 @@
+VARIABLE: Almacena el valor de algo para usar mas tarde. Hay 3 formas para declararla var, let y const.
+STRINGS: son bloques o cadens de texto, palabras y van en comillas.
+FUNCIONES: Son instrucciones para realizar una tarea o calcular un valor.  se escribe function. Para ejecutarla se debe de escrir el nombrey seguido ()y luego {aqui escribimos nuestro codigo}
+DECLARACIONES: Esta console.log, returns esta ultima devuelve lo especificado.
+VALORES BOLEANOS: Un boleano es declarar true o false.
