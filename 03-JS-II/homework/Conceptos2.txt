@@ -1,0 +1,7 @@
+for: sirve para repetir varias instrucciones y se compone de primero la variable, segundo es la condicion y tercero la comprobacion de q si se debe de seguir ejecutando las cuales van separadas por el punto y coma.
+
+&&:  es el operador and o y.
+ 
+||:  es el operador or o o.
+
+!:  es el oprador not o no.
