@@ -1,0 +1,1 @@
+Arrays=   son objetos tipo lista de alto nivel, Tanto la longitud como el tipo de los elementos de un array son variables, el índice del primer elemento de un array es 0, y el del último elemento es igual al valor de la propiedad length del array restándole 1. Seinicia a una propiedad con la notacion corchete[].
