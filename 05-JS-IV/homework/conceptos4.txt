@@ -1,0 +1,12 @@
+Objetos: Es una coleccion de propiedades, tienen clave:valor y se usa {} y cada clave:valor van separados de una coma, en el objeto puede ir arreglos, numeros, cadenas de textos, funciones.
+
+Propiedades: Se le llaman propiedades a numeros, cadenas de textos, arreglos.
+
+Métodos: Son las funciones guardadas en el objeto.
+
+Bucle for…in: Itera en todas las propiedades enumerables de un objeto que está codificado por cadenas. 
+for (let clave in usuario){
+    console.log(clave);
+    console.log(usuario[clave]);
+
+Notación de puntos vs notación de corchetes: La diferencia llamamos al nombre del objeto.nombre de la clave con el punto llamamos al elemento encapsulado y los corchetes es otra forma deben de ir con las comillas para entrar a las propiedades.
