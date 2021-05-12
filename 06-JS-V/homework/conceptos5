@@ -1,0 +1,2 @@
+Prototype: Es como la plantilla donde hay metodos, prpiedades tambien se heredan, cada objeto tiene su Prototype y asi se va heredando de la plantilla constructor. __proto__ su abreviacion
+Constructors_ (de Clases): es una funcion q se invoca con los parentesis y se coloca new para q sea como constructor. Cada constructor tiene la propiedad Prototype.
